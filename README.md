@@ -22,7 +22,7 @@
 Если оба дочерних элемента красные, то делаем смену цвета
 Если корень стал красным, то перекрашиваем его в черный
 
-
+```\hs
             value: 1 {color: BLACK}
         value: 2 {color: BLACK}
             value: 3 {color: BLACK}
@@ -42,3 +42,5 @@ value: 8 {color: BLACK}
             value: 17 {color: BLACK}
         value: 18 {color: BLACK}
             value: 19 {color: BLACK}
+
+            
